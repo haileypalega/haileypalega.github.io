@@ -1,0 +1,17 @@
+a:link{
+	color:purple;
+	}
+	
+a:visited{
+	color:black;
+	}
+	
+a:hover {
+	color:green;
+	}
+	
+.content {
+  max-width: 500px;
+  margin: auto;
+  text-align: center;
+}
