@@ -1,16 +1,19 @@
 <!-- Created by Hailey Palega for COMM150 -->
 
 a:link{
-	color:purple;
+	color:white;
 	}
+	
 	
 a:visited{
 	color:hotpink;
 	}
 	
+	
 a:hover {
 	color:lightblue;
 	}
+	
 	
 .content {
   max-width: 500px;
@@ -20,14 +23,50 @@ a:hover {
   border: 3px solid black;
   border-radius: 25px;
   padding: 15px;
-}
+	}
+
 
 .footer {
 	font-family: "Lucida Console", Monaco, monospace;
 	font-size: 13px;
 	text-align: center;
-	padding-top: 25px;
+	padding-top: 15px;
+	}
 
-}
+
+h1 {
+	text-align: center;
+	}
+	
+	
+.man {
+	margin: auto;
+	}
 
 
+.content2 {
+  max-width: 500px;
+  margin: auto;
+  text-align: center;
+  font-family: "Lucida Console", Monaco, monospace;
+  padding: 15px;
+  color: white;
+  	}
+  
+  
+.bg2 {
+  background-image: url("https://66.media.tumblr.com/c9418bf0c3206fa61098d4603c0959bd/tumblr_p6sm55K4iV1xn5sijo1_500.gif");
+  height: 100%; 
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+  }
+  
+
+.bg3 {
+  background-image: url("https://mir-s3-cdn-cf.behance.net/project_modules/1400/4c032e28008799.56e41b3bbd979.gif");
+  height: 100%; 
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+  }
