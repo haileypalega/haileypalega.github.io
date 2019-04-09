@@ -70,3 +70,12 @@ h1 {
   background-repeat: no-repeat;
   background-size: cover;
   }
+  
+  
+.bg4 {
+  background-image: url("http://raypastore.com/wordpress/wp-content/uploads/2017/10/Evolution-of-the-Action-Office-II-ca19781-1024x768.jpg");
+  height: 100%; 
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+   }
